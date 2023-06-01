@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+}
+.photo{
+    border-radius: 50%;
+    width: 30%;
+    height:30%;
+}
+.signature p{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+/* Synopsis CSS starts */
+.synopsis h4 {
+    font-size: 25px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+  }
+  .synopsis {
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    color: blue;
+    text-align: justify;
+  }
